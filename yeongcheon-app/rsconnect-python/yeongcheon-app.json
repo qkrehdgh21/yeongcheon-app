@@ -1,0 +1,12 @@
+{
+    "https://api.shinyapps.io": {
+        "server_url": "https://api.shinyapps.io",
+        "filename": "C:\\Users\\USER\\Documents\\lsbigdata_gen4\\project4\\shiny2\\yeongcheon-app",
+        "app_url": "https://r48s0x-0-0.shinyapps.io/dongho/",
+        "app_id": 14804475,
+        "app_guid": null,
+        "title": "yeongcheon-app",
+        "app_mode": "python-shiny",
+        "app_store_version": 1
+    }
+}

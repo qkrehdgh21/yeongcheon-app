@@ -1,0 +1,11 @@
+shiny
+shinywidgets
+shinyswatch
+pandas
+geopandas
+plotly
+matplotlib
+faicons
+openpyxl
+pathlib
+pydeck
